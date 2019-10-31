@@ -1,1 +1,2 @@
 # psych
+*Workshop
